@@ -20,7 +20,7 @@
             android:src="@drawable/wode" />
 
         <TextView
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="扫一扫"
@@ -64,7 +64,7 @@
             android:src="@drawable/wode" />
 
         <TextView
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="扫一扫"
@@ -86,7 +86,7 @@
             android:src="@drawable/saoma" />
 
         <TextView
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="讨论组"
